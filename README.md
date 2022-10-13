@@ -7,9 +7,12 @@ Learning React by building eight real-world projects and solving 140+ coding cha
 
 ✏️ This teacher is [Bob Ziroll](https://twitter.com/bobziroll), Head of Education at [Scrimba](https://scrimba.com/).
 
-#### Code for all eight of react projects:
+### Eight react projects:
 
--
+- React Info Site
+  - [Source Code](./react-info-site)
+  - Preview Image
+    ![image info](./preview-img/react-info-site.png)
 -
 -
 -
