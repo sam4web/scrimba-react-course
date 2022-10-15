@@ -10,10 +10,15 @@ Learning React by building eight real-world projects and solving 140+ coding cha
 ### Eight react projects:
 
 - React Info Site
+
   - [Source Code](./react-info-site)
   - Preview Image
     ![image info](./preview-img/react-info-site.png)
--
+
+- Digital Business Card
+  - [Source Code](./digital-business-card)
+  - Preview Image
+    ![image info](./preview-img/digital-business-card.png)
 -
 -
 -
