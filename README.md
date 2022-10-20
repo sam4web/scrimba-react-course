@@ -9,23 +9,26 @@ Learning React by building eight real-world projects and solving 140+ coding cha
 
 ### Eight react projects:
 
-- React Info Site
+- **React Info Site**
+  Very first **react** app, a static site about React! This gives an intro to the basic principles of the library.
+  \> [Source Code](./react-info-site)
+  ![image info](./preview-img/react-info-site.png)
 
-  - [Source Code](./react-info-site)
-  - Preview Image
-    ![image info](./preview-img/react-info-site.png)
+  ***
 
-- Digital Business Card
+- **Digital Business Card**
+  Wrapping up the first section by completing first Solo Project - a digital business card.
+  \> [Source Code](./digital-business-card)
+  ![image info](./preview-img/digital-business-card.png)
 
-  - [Source Code](./digital-business-card)
-  - Preview Image
-    ![image info](./preview-img/digital-business-card.png)
+  ***
 
-- Airbnb Experiences
+- **Airbnb Experiences**
+  Taking react skills to the next level by creating an AirBnB Experiences clone.
+  \> [Source Code](./airbnb-experiences)
+  ![image info](./preview-img/airbnb-experiences.png)
 
-  - [Source Code](./airbnb-experiences)
-  - Preview Image
-    ![image info](./preview-img/airbnb-experiences.png)
+  ***
 
 -
 -
