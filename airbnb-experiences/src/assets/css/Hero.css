@@ -1,0 +1,43 @@
+.Hero {
+  margin: 30px auto;
+  padding: 0 15px;
+}
+
+.Hero .img-container {
+  display: grid;
+  place-items: center;
+}
+
+.Hero .img-container img {
+  width: 100%;
+  max-width: 500px;
+}
+
+.content-container {
+  padding: 15px 10px;
+  padding-top: 35px;
+}
+
+.section__title {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 110%;
+  padding-bottom: 5px;
+}
+
+.section__desc {
+  color: #222;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 110%;
+}
+
+@media screen and (max-width: 450px) {
+  .Hero {
+    margin: 20px auto;
+  }
+
+  .Hero .img-container img {
+    max-width: 350px;
+  }
+}

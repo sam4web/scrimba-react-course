@@ -1,0 +1,28 @@
+.Header {
+  padding: 25px 30px;
+  display: flex;
+  align-items: center;
+  /* box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1); */
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+    rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+
+.Header .logo {
+  width: 90px;
+}
+
+@media screen and (max-width: 768px) {
+  .Header {
+    padding: 20px 30px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .Header {
+    padding: 10px 20px;
+  }
+
+  .Header .logo {
+    width: 70px;
+  }
+}
