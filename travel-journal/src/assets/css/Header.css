@@ -1,0 +1,21 @@
+.Header {
+  background-color: #f55a5a;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 7px;
+  padding: 20px 0px;
+}
+
+.Header .header-icon {
+  font-size: 25px;
+}
+
+.Header .header-title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: -0.075em;
+}
