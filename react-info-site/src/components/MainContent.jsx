@@ -1,7 +1,10 @@
-const MainContent = () => {
+import '../assets/css/MainContent.css';
+import { FaReact } from 'react-icons/fa';
+
+const MainContent = ({ dark }) => {
   return (
     <>
-      <section className='MainContent'>
+      <section className={`MainContent ${dark ? 'dark' : ''}`}>
         <h1 className='main-title'>Fun facts about React</h1>
         <ul className='content-list'>
           <li className='content-item'>Was first released in 2013</li>
@@ -14,6 +17,8 @@ const MainContent = () => {
             Powers thousands of enterprise apps, including mobile apps
           </li>
         </ul>
+
+        <FaReact className='background-icon ' />
       </section>
     </>
   );
