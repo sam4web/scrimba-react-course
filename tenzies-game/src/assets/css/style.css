@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  padding: 30px 10px;
+  display: grid;
+  align-items: center;
+  background-color: #0b2434;
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+}
+
+.container {
+  background-color: #f5f5f5;
+  max-width: 500px;
+  padding: 30px 20px;
+  margin: 0 auto;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 35px;
+}
+
+.text-container {
+  text-align: center;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 30px;
+  margin-bottom: 15px;
+  color: #2b283a;
+}
+
+.instructions {
+  max-width: 320px;
+  margin: 0 auto;
+  margin-bottom: 5px;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: -0.03em;
+  color: #4a4e74;
+}
+
+.dice-container {
+  max-width: fit-content;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 19px;
+}
+
+.dice {
+  background: #ffffff;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: all 50ms linear;
+}
+
+.dice h2 {
+  color: #2b283a;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 26px;
+}
+
+.dice.hold {
+  background-color: #59e391;
+}
+
+.btn {
+  border: none;
+  padding: 9px 25px;
+  border-radius: 7px;
+  box-shadow: 0px 3.2px 7.68px rgba(0, 0, 0, 0.18);
+  background-color: #5035ff;
+  border: 2px solid #5035ff;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18.5px;
+  color: #ffffff;
+  cursor: pointer;
+  transition: 100ms all linear;
+}
+
+.btn:hover {
+  transform: translateY(-2.2px);
+}
