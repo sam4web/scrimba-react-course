@@ -1,0 +1,22 @@
+.start-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  text-align: center;
+  color: #293264;
+}
+
+.start-page .title {
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 37px;
+}
+
+.start-page .description {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 19px;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,33 @@
+.Header {
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 20px;
+  color: #ffffff;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo .logo__img {
+  width: 35px;
+  height: 30px;
+  margin-right: 5px;
+}
+
+.logo .logo__text {
+  font-weight: 700;
+  font-size: 20.7482px;
+  line-height: 24px;
+  letter-spacing: -0.1em;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 15px;
+  text-align: right;
+}

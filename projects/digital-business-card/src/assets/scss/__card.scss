@@ -1,0 +1,92 @@
+.card-container {
+  background-color: #1a1b21;
+  max-width: 450px;
+  width: 100%;
+  margin: 0 auto;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.info {
+  text-align: center;
+
+  &__image {
+    width: 100%;
+    height: 350px;
+    background-image: url(../img/person-img.jpg);
+    background-position-y: -80px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 20px;
+  }
+
+  &__name {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 5px;
+    color: #ffffff;
+  }
+
+  &__job-title {
+    color: #f3bf99;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    margin-bottom: 4px;
+  }
+
+  &__personal-website {
+    color: #f5f5f5;
+    font-weight: 400;
+    font-size: 12.24px;
+    line-height: 150%;
+  }
+
+  .button-container {
+    @include flex;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    padding: 0px 50px;
+
+    @include responsive_small {
+      padding: 0 40px;
+    }
+
+    .btn {
+      width: 100%;
+    }
+  }
+}
+
+.content {
+  padding: 10px 56px;
+
+  @include responsive_small {
+    padding: 10px 35px;
+  }
+
+  &__title {
+    color: #f5f5f5;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 150%;
+
+    @include responsive_small {
+      font-size: 23px;
+      line-height: 130%;
+    }
+  }
+
+  &__description {
+    font-weight: 400;
+    font-size: 16.24px;
+    line-height: 125%;
+    color: #dcdcdc;
+
+    @include responsive_small {
+      font-size: 15px;
+      line-height: 120%;
+    }
+  }
+}
