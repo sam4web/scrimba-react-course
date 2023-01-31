@@ -15,5 +15,3 @@ Learning React by building real-world projects and solving 140+ coding challenge
 4. [Travel Journal](./travel-journal)
 5. [Meme Generator](./meme-generator)
 6. [Tenzies Game](./tenzies-game)
-
-7. #### [Quizzical App](./quizzical-app)
