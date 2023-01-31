@@ -9,10 +9,10 @@ Learning React by building real-world projects and solving 140+ coding challenge
 
 ### React projects:
 
-1. [React Info Site](./react-info-site)
-2. [Digital Business Card](./digital-business-card)
-3. [Airbnb Experiences](./airbnb-experiences)
-4. [Travel Journal](./travel-journal)
-5. [Meme Generator](./meme-generator)
-6. [Tenzies Game](./tenzies-game)
-7. [Quizzical App](./quizzical-app)
+1. [React Info Site](./projects/react-info-site)
+2. [Digital Business Card](./projects/digital-business-card)
+3. [Airbnb Experiences](./projects/airbnb-experiences)
+4. [Travel Journal](./projects/travel-journal)
+5. [Meme Generator](./projects/meme-generator)
+6. [Tenzies Game](./projects/tenzies-game)
+7. [Quizzical App](./projects/quizzical-app)
