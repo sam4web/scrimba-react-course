@@ -9,51 +9,51 @@ Learning React by building real-world projects and solving 140+ coding challenge
 
 ### React projects:
 
-1. **React Info Site**
-   <br />
-   [Source Code](./react-info-site)
-   ![preview image](./preview-img/react-info-site.png)
+1.  #### [React Info Site](./react-info-site)
+      <br />
+    [Source Code](./react-info-site/src/)
+    ![preview image](./react-info-site/preview-img.png)
 
-   ***
+---
 
-2. **Digital Business Card**
-   <br />
-   \- [Source Code](./digital-business-card)
-   ![preview image](./preview-img/digital-business-card.png)
+2.  #### [Digital Business Card](./digital-business-card)
+      <br />
+    [Source Code](./digital-business-business/src/)
+    ![preview image](./digital-business-card/package.json)
 
-   ***
+---
 
-3. **Airbnb Experiences**
-   <br />
-   \- [Source Code](./airbnb-experiences)
-   ![preview image](./preview-img/airbnb-experiences.png)
+3.  #### [Airbnb Experiences](./airbnb-experiences)
+      <br />
+    [Source Code](./airbnb-experiences/src/)
+    ![preview image](./airbnb-experiences/preview-img.png)
 
-   ***
+---
 
-4. **Travel journal**
-   <br />
-   \- [Source Code](./travel-journal)
-   ![preview image](./preview-img/travel-journal.png)
+4.  #### [Travel Journal](./travel-journal)
+      <br />
+    [Source Code](./travel-journal/src/)
+    ![preview image](./travel-journal/preview-img.png)
 
-   ***
+---
 
-5. **Meme Generator**
-   <br />
-   \- [Source Code](./meme-generator)
-   ![preview image](./preview-img/meme-generator.png)
+5.  #### [Meme Generator](./meme-generator)
+      <br />
+    [Source Code](./meme-generator/src/)
+    ![preview image](./meme-generator/preview-img.png)
 
-   ***
+---
 
-6. **Tenzies Game**
-   <br />
-   \- [Source Code](./tenzies-game)
-   ![preview image](./preview-img/tenzies-game.png)
+6.  #### [Tenzies Game](./tenzies-game)
+      <br />
+    [Source Code](./tenzies-game/src/)
+    ![preview image](./tenzies-game/preview-img.png)
 
-   ***
+---
 
-7. **Quizzical App**
-   <br />
-   \- [Source Code](./quizzical-app)
-   ![preview image](./preview-img/quizzical-app.png)
+7.  #### [Quizzical App](./quizzical-app)
+      <br />
+    [Source Code](./quizzical-app/src/)
+    ![preview image](./quizzical-app/preview-img.png)
 
-   ***
+---
